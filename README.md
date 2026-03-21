@@ -34,7 +34,7 @@
 ---
 
 ## 📫 Contact Me
--+234(0)7038953065
+- +234(0)7038953065
 - Email: usamaado36@gmail.com
 
 ---
