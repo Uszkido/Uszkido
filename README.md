@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋, I'm Usama Ado Shehu
 
-<!--
-**Uszkido/Uszkido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on **Phone Tracking System (PTS)**
+- 🌱 I’m learning **Machine Learning & Advanced Backend Systems**
+- 👯 I’m building **Vexel Innovations**
+- 💬 Ask me about **Node.js, APIs, Databases, Web Apps**
+- 🌍 Passionate about **AgriTech, Sustainability & AI**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: PostgreSQL (Neon), MongoDB
+- Tools: Git, VS Code, Postman
+
+---
+
+## 🚀 Projects
+
+### 📱 Phone Tracking System (PTS)
+- Track and verify stolen phones
+- Built with full-stack architecture
+- 🌐 Live: https://pts-vexel.vercel.app
+
+---
+
+### 🌱 Kido Farmas
+- Agri-tech platform for farmers
+- Connecting technology with agriculture
+- Built with full-stack architecture
+- 🌐 Live: https://kidofarms.vercel.app
+---
+
+## 📫 Contact Me
+-+234(0)7038953065
+- Email: usamaado36@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I build tech solutions that solve real-world problems 🌍
