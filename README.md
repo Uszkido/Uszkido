@@ -105,7 +105,7 @@ Agri-commerce ecosystem for Africa
 - Agri-Tech & Digital Platforms
 
   
-🚧 In Development  
+🚧 In Development  🌐 https://vexelone.vercel.app
 
 ---
 
@@ -116,7 +116,7 @@ Modern streetwear brand blending simplicity, identity, and confidence
 - Inspired by youth culture and modern African identity
 - Designed for everyday wear with premium feel
 
-🚧 Research Phase
+🚧 Research Phase 🌐 https://usama-frontend.vercel.app
 
 ---
 
