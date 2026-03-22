@@ -18,7 +18,7 @@
   👉 https://pts-vexel.vercel.app  
 
 - 🌱 **Kido Farms**  
-  👉 https://pts-vexel.vercel.app
+  👉 https://kidofarms.vercel.app
 
   - 👕 **Usama**  
   👉 https://usama-frontend.vercel.app
