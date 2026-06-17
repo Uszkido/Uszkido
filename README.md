@@ -150,7 +150,7 @@ I contribute to real-world open-source projects — picking up issues, navigatin
 
 <div align="center">
 
-📧 **usamaado36@gmail.com** &nbsp;|&nbsp; 📞 **+234 703 895 3065** &nbsp;|&nbsp; 🌍 Planet Earth
+📧 **usamaado36@gmail.com** &nbsp;|&nbsp; 📞 **+234 703 895 3065** &nbsp;|&nbsp; 🌍 Planet Earth.
 
 </div>
 
