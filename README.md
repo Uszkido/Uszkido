@@ -39,8 +39,9 @@ I'm Usama — a software developer building scalable web platforms and exploring
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-**Backend & Data**
+**Languages & Backend**
 <br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -59,7 +60,7 @@ I'm Usama — a software developer building scalable web platforms and exploring
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Uszkido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="35%"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uszkido&theme=tokyonight&hide_border=true" width="70%"/>
 
