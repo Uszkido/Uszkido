@@ -15,7 +15,7 @@
 
 ## 🧭 About Me
 
-I'm Usama know porpulary by the stage nane Uszkido a full-stack software developer and founder building production-grade web platforms across security, agri-tech, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets, from device security systems to agricultural commerce platforms.
+I'm Usama know porpulary by the stage name Uszkido a full-stack software developer and founder building production-grade web platforms across security, agri-tech, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets, from device security systems to agricultural commerce platforms.
 
 - 🔭 Architecting **PTS Sentinel** — a full-stack mobile security platform with IMEI verification, theft reporting, and law-enforcement-facing tooling
 - 🌱 Deepening expertise in **Machine Learning & distributed systems design**
