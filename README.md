@@ -15,14 +15,14 @@
 
 ## 🧭 About Me
 
-I'm Usama — a software developer building scalable web platforms and exploring applied AI/ML, currently running **Vexel Innovations**, a small studio focused on agri-tech, security, and intelligent systems for African markets.
+I'm Usama — a full-stack software developer and founder building production-grade web platforms across security, agri-tech, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets, from device security systems to agricultural commerce platforms.
 
-- 🔭 Currently building **Phone Tracking System (PTS) Sentinel** — IMEI-based device security & theft reporting
-- 🌱 Currently learning **Machine Learning & scalable distributed systems**
-- 🏗️ Founder of **[Vexel Innovations](https://github.com/Vexel-Innovations)**
-- 🌍 Passionate about **AgriTech, sustainability, and AI for real-world problems**
-- 🤝 Actively contributing to **open source** — find me on issues tagged `good first issue`
-- ⚡ Fun fact: most of this code was written from my bed 🛏️
+- 🔭 Architecting **PTS Sentinel** — a full-stack mobile security platform with IMEI verification, theft reporting, and law-enforcement-facing tooling
+- 🌱 Deepening expertise in **Machine Learning & distributed systems design**
+- 🏗️ Founder & lead engineer at **[Vexel Innovations](https://github.com/Vexel-Innovations)**
+- 🌍 Building at the intersection of **AgriTech, security, and applied AI**
+- 🤝 Active **open-source contributor** — shipping reviewed, merged changes to real-world projects
+- 💼 Available for collaboration on ambitious technical projects
 
 <br/>
 
@@ -77,17 +77,17 @@ I'm Usama — a software developer building scalable web platforms and exploring
 <td width="50%" valign="top">
 
 ### 📱 [PTS Sentinel](https://pts-vexel.vercel.app)
-Mobile device security platform — IMEI registration, theft reporting, and law-enforcement-facing verification tooling.
+A full-stack mobile device security platform purpose-built for theft deterrence: IMEI registration, device verification, and a reporting pipeline designed to interface with law-enforcement workflows.
 
-`Next.js` `TypeScript` `PostgreSQL`
+`Next.js` `TypeScript` `PostgreSQL` `Full-Stack`
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌱 [Kido Farms](https://kidofarms.vercel.app)
-Agri-commerce platform for African farmers — produce & livestock management with a marketplace connecting farmers to buyers.
+An agri-commerce platform connecting African farmers directly to buyers — covering crop and livestock management with a built-in marketplace and vendor system.
 
-`Next.js` `TypeScript` `Vercel`
+`Next.js` `TypeScript` `Vercel` `Marketplace`
 
 </td>
 </tr>
@@ -95,17 +95,17 @@ Agri-commerce platform for African farmers — produce & livestock management wi
 <td width="50%" valign="top">
 
 ### ⚡ [VexelOne](https://vexelone.vercel.app)
-The umbrella platform for Vexel Innovations — AI, cybersecurity, and full-stack tooling under one ecosystem. *In development.*
+The flagship platform of Vexel Innovations — unifying AI, cybersecurity, and full-stack engineering into a single product ecosystem for solving security, agriculture, and commerce challenges at scale.
 
-`AI/ML` `Full-Stack` `Cybersecurity`
+`AI/ML` `Full-Stack` `Cybersecurity` `Platform`
 
 </td>
 <td width="50%" valign="top">
 
 ### 👕 [USAMA](https://usama-frontend.vercel.app)
-A modern streetwear brand concept — clean, bold design inspired by youth and African identity. *Research phase.*
+A streetwear brand built on clean, intentional design — merging modern African identity with premium everyday wear.
 
-`Brand` `Frontend`
+`Brand` `Frontend` `Design`
 
 </td>
 </tr>
@@ -119,12 +119,12 @@ A modern streetwear brand concept — clean, bold design inspired by youth and A
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </div>
 
-I actively contribute to open-source projects beyond my own repos — picking up real issues, working through review feedback, and shipping merged changes. Recent contribution work includes:
+I contribute to real-world open-source projects — picking up issues, navigating maintainer review, and shipping merged, reviewed changes rather than just opening throwaway PRs. Recent contribution work:
 
 | Project | Contribution | Type |
 |---|---|---|
-| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Added a verified, sourced fact to the app's Japan-facts content set after catching a duplicate-entry issue in the original task | `content` · JSON |
-| [`ditekshen/detection`](https://github.com/Uszkido/detection) | Forked and explored Yara/Snort/ClamAV detection signature structure for malware/IOC rule contributions | `security` · YARA |
+| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Identified a duplicate-content issue in an assigned task and shipped a verified, properly-sourced replacement — caught a data-quality problem before it reached production | `content` · JSON |
+| [`ditekshen/detection`](https://github.com/Uszkido/detection) | Working with Yara/Snort/ClamAV detection signature architecture for malware and IOC rule contributions | `security` · YARA |
 
 **Skills exercised through contribution work:**
 
@@ -160,7 +160,7 @@ I actively contribute to open-source projects beyond my own repos — picking up
 
 <div align="center">
 
-**Building scalable tech solutions that impact Africa and the world 🌍**
+**Engineering scalable technology that solves real problems — for Africa, and the world. 🌍**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
 
