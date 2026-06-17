@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Usama%20Ado%20Shehu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Founder%20%40%20Vexel%20Innovations&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&height=60&lines=Usama+Ado+Shehu;Software+Developer;AI+%26+ML+Enthusiast;Founder+%40+Vexel+Innovations" alt="Typing SVG" />
 
 <a href="https://usamashehu.dev"><img src="https://img.shields.io/badge/Portfolio-usamashehu.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://linkedin.com/in/uszkido"><img src="https://img.shields.io/badge/LinkedIn-uszkido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -112,7 +112,31 @@ A modern streetwear brand concept — clean, bold design inspired by youth and A
 
 <br/>
 
-## 📌 Pinned Repos
+## 🌐 Open Source Contributions
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+I actively contribute to open-source projects beyond my own repos — picking up real issues, working through review feedback, and shipping merged changes. Recent contribution work includes:
+
+| Project | Contribution | Type |
+|---|---|---|
+| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Added a verified, sourced fact to the app's Japan-facts content set after catching a duplicate-entry issue in the original task | `content` · JSON |
+| [`ditekshen/detection`](https://github.com/Uszkido/detection) | Forked and explored Yara/Snort/ClamAV detection signature structure for malware/IOC rule contributions | `security` · YARA |
+
+**Skills exercised through contribution work:**
+
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git_Workflow-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Code_Review-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/YARA-EE0000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data_Validation-6366F1?style=flat-square"/>
+
+<br/>
+
+
 
 <div align="center">
 <a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
@@ -137,6 +161,6 @@ A modern streetwear brand concept — clean, bold design inspired by youth and A
 
 **Building scalable tech solutions that impact Africa and the world 🌍**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
 
 </div>
