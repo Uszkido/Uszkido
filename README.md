@@ -1,133 +1,142 @@
-<h1 align="center">Hi 👋, I'm Usama Ado Shehu</h1>
+<div align="center">
 
-<h3 align="center">Software Developer | AI & ML Enthusiast | Founder @ Vexel Innovations</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Usama%20Ado%20Shehu&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Founder%20%40%20Vexel%20Innovations&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://usamashehu.dev"><img src="https://img.shields.io/badge/Portfolio-usamashehu.dev-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/uszkido"><img src="https://img.shields.io/badge/LinkedIn-uszkido-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/uszkido_"><img src="https://img.shields.io/badge/X-uszkido__-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://facebook.com/uszkido"><img src="https://img.shields.io/badge/Facebook-uszkido-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-## 🚀 About Me
-- 🔭 Currently building **Phone Tracking System (PTS)**
-- 🌱 Learning **Machine Learning & Scalable Systems**
-- 🏗️ Founder of **Vexel Innovations**
-- 🌍 Passionate about **AgriTech, Sustainability & AI**
-- 💡 Focused on solving real-world problems with technology
+<img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 
----
+</div>
 
-## 🌐 Live Projects
-- 📱 **PTS (Phone Tracking System)**  
-  👉 https://pts-vexel.vercel.app  
+<br/>
 
-- 🌱 **Kido Farms**  
-  👉 https://kidofarms.vercel.app
+## 🧭 About Me
 
-  - 👕 **Usama**  
-  👉 https://usama-frontend.vercel.app
+I'm Usama — a software developer building scalable web platforms and exploring applied AI/ML, currently running **Vexel Innovations**, a small studio focused on agri-tech, security, and intelligent systems for African markets.
 
-- 🤖 **VexelOne**  
-  👉 https://vexelone.vercel.app
+- 🔭 Currently building **Phone Tracking System (PTS) Sentinel** — IMEI-based device security & theft reporting
+- 🌱 Currently learning **Machine Learning & scalable distributed systems**
+- 🏗️ Founder of **[Vexel Innovations](https://github.com/Vexel-Innovations)**
+- 🌍 Passionate about **AgriTech, sustainability, and AI for real-world problems**
+- 🤝 Actively contributing to **open source** — find me on issues tagged `good first issue`
+- ⚡ Fun fact: most of this code was written from my bed 🛏️
 
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<div align="center">
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Data**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-### ☁️ Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+**Hosting & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
----
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
-![Uszkido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uszkido&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=tokyonight)
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=Uszkido&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=tokyonight&hide_border=true" width="35%"/>
 
-## 🔥 Featured Projects
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Uszkido&theme=tokyonight&hide_border=true" width="70%"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Uszkido&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
-### 📱 Phone Tracking System (PTS) Sentinel 
-Enhanced security system for mobile devices  
+</div>
 
-- IMEI-based tracking & validation
-- IMEI registration & verification 
-- Lost/stolen reporting system
-- Theft alert system 
-- Full-stack architecture with API & database
-- Law enforcement integration   
+<br/>
 
-🌐 https://pts-vexel.vercel.app  
-⚡ Powered by Vexel Innovations  
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🌱 Kido Farms
-Agri-commerce ecosystem for Africa 
+### 📱 [PTS Sentinel](https://pts-vexel.vercel.app)
+Mobile device security platform — IMEI registration, theft reporting, and law-enforcement-facing verification tooling.
 
-- Farm & produce management system  
-- Covers crops and aquaculture  
-- Technology-driven agriculture solutions
-- Marketplace for farmers & buyers  
-- Vendor-based system  
-- Scalable platform design
-- - ### 🛒 Kido Fram & Orchards
-    
-🌐 https://kidofarms.vercel.app  
+`Next.js` `TypeScript` `PostgreSQL`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🚀 VexelOne Ecosystem
-### ⚡ VexelOne
+### 🌱 [Kido Farms](https://kidofarms.vercel.app)
+Agri-commerce platform for African farmers — produce & livestock management with a marketplace connecting farmers to buyers.
 
-- Innovation-driven technology company building intelligent digital solutions
+`Next.js` `TypeScript` `Vercel`
 
-- Focused on AI, software engineering, cybersecurity, and scalable systems
-- Develops real-world platforms solving security, agriculture, and commerce challenges
-- Built as a hub for innovation across multiple industries
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🧠 Core Areas:
+### ⚡ [VexelOne](https://vexelone.vercel.app)
+The umbrella platform for Vexel Innovations — AI, cybersecurity, and full-stack tooling under one ecosystem. *In development.*
 
-- Machine Learning & AI
-- Full-Stack Development
-- Cybersecurity Systems
-- Agri-Tech & Digital Platforms
+`AI/ML` `Full-Stack` `Cybersecurity`
 
-  
-🚧 In Development  🌐 https://vexelone.vercel.app
+</td>
+<td width="50%" valign="top">
 
----
+### 👕 [USAMA](https://usama-frontend.vercel.app)
+A modern streetwear brand concept — clean, bold design inspired by youth and African identity. *Research phase.*
 
-### 👕 USAMA (Usama Clothing Brand)
-Modern streetwear brand blending simplicity, identity, and confidence
+`Brand` `Frontend`
 
-- Focused on clean, bold, and stylish designs
-- Inspired by youth culture and modern African identity
-- Designed for everyday wear with premium feel
+</td>
+</tr>
+</table>
 
-🚧 Research Phase 🌐 https://usama-frontend.vercel.app
+<br/>
 
----
+## 📌 Pinned Repos
 
-## 📫 Contact Me
-- +234(0)7038953065
-- 📧 Email: usamaado36@gmail.com
+<div align="center">
+<a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Uszkido/pts-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=pts-project&theme=tokyonight&hide_border=true"/></a>
+</div>
 
----
+<br/>
+
+## 📫 Get in Touch
+
+<div align="center">
+
+📧 **usamaado36@gmail.com** &nbsp;|&nbsp; 📞 **+234 703 895 3065** &nbsp;|&nbsp; 🌍 Planet Earth
+
+</div>
+
+<br/>
 
 ## ⚡ Vision
-Building scalable tech solutions that impact Africa and the world 🌍
 
+<div align="center">
 
+**Building scalable tech solutions that impact Africa and the world 🌍**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" width="100%"/>
+
+</div>
