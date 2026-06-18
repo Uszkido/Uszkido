@@ -15,14 +15,14 @@
 
 ## 🧭 About Me
 
-I'm Usama (known as **Uszkido**), a full-stack software developer and founder building production-grade platforms across security, education, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets — from device security registries to Islamic educational platforms.
+I'm Usama (known as **Uszkido**), a full-stack software developer and founder building production-grade platforms across security, education, agriculture, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets.
 
-- 🔭 Building **[PTS (Phone Theft Tracking System)](https://github.com/Uszkido/pts-project)** — decentralized device ownership verification with immutable IMEI certificates, chain-of-custody tracking, and law-enforcement integration
-- 📚 Developing **[Deen](https://deen-nine.vercel.app)** — a Next.js Islamic education app with Quran, Hadith, scholar profiles, and isnad chains (database: 114 surahs, 6,236 verses, 17 hadith collections)
-- 🌱 Contributing to **[anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources)** — open-source learning repo with GitHub Actions automation (link checker, arXiv watcher, stale bot)
+- 🔭 Building **[PTS](https://github.com/Uszkido/pts-project)** — decentralized device ownership verification with immutable IMEI certificates and law-enforcement integration
+- 📚 Developing **[Deen](https://deen-nine.vercel.app)** — Islamic education app with Quran (6,236 verses), 17 hadith collections, scholar profiles, and isnad chains
+- 🍕 Shipping **[Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)** — production-line computer vision system (YOLOv8, real-time detection dashboard)
+- 🌱 Growing **[Kido Farms](https://github.com/Uszkido/kidofarms-frontend)** — West Africa's farm-to-table agritech marketplace with Harvest Passports and live price tracking
+- 🤖 Contributing to **[anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources)** — open-source ML learning repo with GitHub Actions automation
 - 🏗️ Founder & lead engineer at **[Vexel Innovations](https://github.com/Vexel-Innovations)**
-- 🌍 Building at the intersection of **AgriTech, cybersecurity, and applied AI**
-- 🤝 Active **open-source contributor** — shipping reviewed, merged changes to real-world projects
 - 💼 Available for collaboration on ambitious technical projects
 
 <br/>
@@ -41,13 +41,19 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-**Languages & Backend**
+**Backend & Data**
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+
+**AI / CV**
+<br/>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq_AI-FF6B35?style=for-the-badge&logoColor=white"/>
 
 **DevOps & Tools**
 <br/>
@@ -82,11 +88,11 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 <td width="50%" valign="top">
 
 ### 📱 [PTS — Phone Theft Tracking System](https://github.com/Uszkido/pts-project)
-A professional-grade decentralized device security registry. Every phone gets an immutable digital certificate tied to its IMEI. Vendors register at point of sale, ownership transfers are logged on an auditable chain, and anyone can verify if a device is stolen before purchase.
+Decentralized device security registry — every phone gets an immutable certificate tied to its IMEI at point of sale. Ownership transfers are logged on an auditable chain; anyone can verify if a device is stolen before purchase.
 
-**Recent overhaul (June 2026):** Cleaned repo structure, professionalized documentation (README with badges, contributing guide, security policy, .env templates), expanded .gitignore.
+Integrates with Cloudinary, Paystack, Mono, WhatsApp & Telegram notifications, Groq AI, and Metabase analytics.
 
-Next.js Node.js PostgreSQL Prisma DevOps
+`Next.js` `Node.js` `PostgreSQL` `Prisma` `Groq`
 
 **Live:** [pts-frontend-ten.vercel.app](https://pts-frontend-ten.vercel.app)
 
@@ -94,11 +100,9 @@ Next.js Node.js PostgreSQL Prisma DevOps
 <td width="50%" valign="top">
 
 ### 📚 [Deen — Islamic Education App](https://deen-nine.vercel.app)
-A Next.js web app for Islamic learning — featuring the complete Quran (114 surahs, 6,236 verses in Arabic, English, Hausa), 17 hadith books with topic tagging, ~60 scholar profiles, and 35+ narrator/isnad records. Built with a Node.js ingest script populating a Neon PostgreSQL database from public APIs.
+Full Quran (114 surahs, 6,236 verses in Arabic, English & Hausa), 17 hadith collections with topic tagging, ~60 scholar biographies, 35+ isnad/narrator records, and AI-powered search. Populated via a custom Node.js ingest pipeline from public APIs into Neon PostgreSQL.
 
-**Tech:** Quran/Hadith APIs, database population via CDN fallbacks, responsive Islamic design.
-
-Next.js PostgreSQL Node.js API Integration
+`Next.js` `PostgreSQL` `Drizzle ORM` `Groq AI` `Vercel`
 
 **Live:** [deen-nine.vercel.app](https://deen-nine.vercel.app)
 
@@ -107,18 +111,38 @@ Next.js PostgreSQL Node.js API Integration
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 [Kido Farms](https://kidofarms.vercel.app)
-An agri-commerce platform connecting African farmers directly to buyers — covering crop and livestock management with a built-in marketplace and vendor system.
+### 🍕 [Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)
+Real-time computer vision system for production-line pizza counting. Detects and tracks units with a trained YOLOv8/ONNX model, serves live throughput data through a login-protected Flask web dashboard, and ships as a packaged Windows executable for factory deployment.
 
-Next.js TypeScript Marketplace
+`Python` `YOLOv8` `OpenCV` `Flask` `ONNX`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [VexelOne](https://vexelone.vercel.app)
-The flagship platform of Vexel Innovations — unifying AI, cybersecurity, and full-stack engineering into a single product ecosystem for solving security, agriculture, and commerce challenges at scale.
+### 🌱 [Kido Farms — Sovereignty Network](https://github.com/Uszkido/kidofarms-frontend)
+West Africa's farm-to-table agritech marketplace. Farmers list produce with digital **Harvest Passports** (QR-traced from field to table), buyers get live market price tickers across Nigerian cities, and the platform handles Paystack payments, cold-chain logistics, and NDVI satellite growth tracking.
 
-AI/ML Full-Stack Cybersecurity Platform
+`Next.js 15` `TypeScript` `Express` `PostgreSQL` `Paystack`
+
+**Live:** [kidofarms.vercel.app](https://kidofarms.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ [VexelOne](https://vexelone.vercel.app)
+The flagship platform of Vexel Innovations — unifying AI, cybersecurity, and full-stack engineering into a single product ecosystem for security, agriculture, and commerce challenges across Africa.
+
+`AI/ML` `Full-Stack` `Cybersecurity` `Platform`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔬 [anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources)
+Open-source learning repository for anomaly detection fundamentals. Contributing GitHub Actions automation: link checker, arXiv paper watcher, and stale issue manager.
+
+`Python` `GitHub Actions` `ML` `Open Source`
 
 </td>
 </tr>
@@ -128,23 +152,11 @@ AI/ML Full-Stack Cybersecurity Platform
 
 ## 🌐 Open Source Contributions
 
-I contribute to real-world open-source projects — picking up issues, navigating maintainer review, and shipping merged, reviewed changes. Current and recent work:
-
 | Project | Contribution | Type |
 |---|---|---|
-| [Uszkido/anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources) | Building GitHub Actions automation (link checker, arXiv paper watcher, stale bot) as a learning pathway for anomaly detection fundamentals | utomation · GitHub Actions · Python |
-| [lingdojo/kana-dojo](https://github.com/lingdojo/kana-dojo) | Identified a duplicate-content issue in an assigned task and shipped a verified, properly-sourced replacement — caught a data-quality problem before production | content · JSON |
-| [ditekshen/detection](https://github.com/Uszkido/detection) | Working with Yara/Snort/ClamAV detection signature architecture for malware and IOC rule contributions | security · YARA |
-
-**Skills exercised through contribution work:**
-
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git_Workflow-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Code_Review-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/YARA-EE0000?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data_Validation-6366F1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+| [`Uszkido/anomaly-detection-resources`](https://github.com/Uszkido/anomaly-detection-resources) | GitHub Actions automation (link checker, arXiv watcher, stale bot) | `automation` · GitHub Actions · Python |
+| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Identified duplicate-content issue, shipped verified replacement | `content` · JSON |
+| [`ditekshen/detection`](https://github.com/Uszkido/detection) | Yara/Snort/ClamAV detection signature contributions for malware and IOC rules | `security` · YARA |
 
 <br/>
 
@@ -153,7 +165,8 @@ I contribute to real-world open-source projects — picking up issues, navigatin
 <div align="center">
 <a href="https://github.com/Uszkido/pts-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=pts-project&theme=tokyonight&hide_border=true"/></a>
 <a href="https://github.com/Uszkido/Deen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Deen&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/anomaly-detection-resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=anomaly-detection-resources&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Uszkido/Smooth-Pizza-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Smooth-Pizza-Counter&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
 </div>
 
 <br/>
