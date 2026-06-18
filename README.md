@@ -71,6 +71,9 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
 
 </div>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -84,17 +87,22 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
-> *"The best way to make JavaScript better would be to make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it is actually a better language."*
-> 
-> — **Douglas Crockford**
+> *"Python does not solve problems - it gives you the clarity to see that the real problem was never the code."*
+>
+> — **Usama Ado Shehu**
 
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
   <img alt="snake animation" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
 </picture>
+
+<br/>
+
 ## 🚀 Featured Projects
 
 <table>
@@ -184,10 +192,3 @@ Modern African streetwear brand platform — a full-stack e-commerce experience 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
 
 </div>
-
-
-
-
-
-
-
