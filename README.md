@@ -84,7 +84,9 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+> *"The best way to make JavaScript better would be to make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it is actually a better language."*
+> 
+> — **Douglas Crockford**
 
 </div>
 
@@ -182,5 +184,6 @@ Modern African streetwear brand platform — a full-stack e-commerce experience 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
 
 </div>
+
 
 
