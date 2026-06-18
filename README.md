@@ -15,14 +15,14 @@
 
 ## 🧭 About Me
 
-I'm Usama (known as **Uszkido**), a full-stack software developer and founder building production-grade platforms across security, education, agriculture, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets.
+I'm Usama (known as **Uszkido**), a full-stack software developer and founder building production-grade platforms across security, agriculture, and AI. I run **Vexel Innovations**, a technology studio designing scalable digital infrastructure for African markets.
 
 - 🔭 Building **[PTS](https://github.com/Uszkido/pts-project)** — decentralized device ownership verification with immutable IMEI certificates and law-enforcement integration
-- 📚 Developing **[Deen](https://deen-nine.vercel.app)** — Islamic education app with Quran (6,236 verses), 17 hadith collections, scholar profiles, and isnad chains
 - 🍕 Shipping **[Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)** — production-line computer vision system (YOLOv8, real-time detection dashboard)
 - 🌱 Growing **[Kido Farms](https://github.com/Uszkido/kidofarms-frontend)** — West Africa's farm-to-table agritech marketplace with Harvest Passports and live price tracking
+- 👕 Designing **[Usama](https://github.com/Uszkido/usama)** — modern African streetwear brand platform (in development)
 - 🤖 Contributing to **[anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources)** — open-source ML learning repo with GitHub Actions automation
-- 🏗️ Founder & lead engineer at **[Vexel Innovations](https://github.com/Vexel-Innovations)**
+- 🏗️ Founder at **[Vexel Innovations](https://github.com/Vexel-Innovations)**
 - 💼 Available for collaboration on ambitious technical projects
 
 <br/>
@@ -90,25 +90,11 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 ### 📱 [PTS — Phone Theft Tracking System](https://github.com/Uszkido/pts-project)
 Decentralized device security registry — every phone gets an immutable certificate tied to its IMEI at point of sale. Ownership transfers are logged on an auditable chain; anyone can verify if a device is stolen before purchase.
 
-Integrates with Cloudinary, Paystack, Mono, WhatsApp & Telegram notifications, Groq AI, and Metabase analytics.
-
 `Next.js` `Node.js` `PostgreSQL` `Prisma` `Groq`
 
 **Live:** [pts-frontend-ten.vercel.app](https://pts-frontend-ten.vercel.app)
 
 </td>
-<td width="50%" valign="top">
-
-### 📚 [Deen — Islamic Education App](https://deen-nine.vercel.app)
-Full Quran (114 surahs, 6,236 verses in Arabic, English & Hausa), 17 hadith collections with topic tagging, ~60 scholar biographies, 35+ isnad/narrator records, and AI-powered search. Populated via a custom Node.js ingest pipeline from public APIs into Neon PostgreSQL.
-
-`Next.js` `PostgreSQL` `Drizzle ORM` `Groq AI` `Vercel`
-
-**Live:** [deen-nine.vercel.app](https://deen-nine.vercel.app)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🍕 [Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)
@@ -117,32 +103,26 @@ Real-time computer vision system for production-line pizza counting. Detects and
 `Python` `YOLOv8` `OpenCV` `Flask` `ONNX`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌱 [Kido Farms — Sovereignty Network](https://github.com/Uszkido/kidofarms-frontend)
-West Africa's farm-to-table agritech marketplace. Farmers list produce with digital **Harvest Passports** (QR-traced from field to table), buyers get live market price tickers across Nigerian cities, and the platform handles Paystack payments, cold-chain logistics, and NDVI satellite growth tracking.
+West Africa's farm-to-table agritech marketplace. Farmers list produce with digital Harvest Passports (QR-traced from field to table), buyers get live market price tickers across Nigerian cities, and the platform handles Paystack payments, cold-chain logistics, and NDVI satellite growth tracking.
 
 `Next.js 15` `TypeScript` `Express` `PostgreSQL` `Paystack`
 
 **Live:** [kidofarms.vercel.app](https://kidofarms.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### ⚡ [VexelOne](https://vexelone.vercel.app)
-The flagship platform of Vexel Innovations — unifying AI, cybersecurity, and full-stack engineering into a single product ecosystem for security, agriculture, and commerce challenges across Africa.
+### 👕 [Usama](https://github.com/Uszkido/usama)
+Modern African streetwear brand platform — a full-stack e-commerce experience blending clean design with bold identity. Currently in active development.
 
-`AI/ML` `Full-Stack` `Cybersecurity` `Platform`
+`JavaScript` `Node.js` `In Development`
 
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [anomaly-detection-resources](https://github.com/Uszkido/anomaly-detection-resources)
-Open-source learning repository for anomaly detection fundamentals. Contributing GitHub Actions automation: link checker, arXiv paper watcher, and stale issue manager.
-
-`Python` `GitHub Actions` `ML` `Open Source`
+**Live:** [usama-frontend.vercel.app](https://usama-frontend.vercel.app)
 
 </td>
 </tr>
@@ -164,9 +144,9 @@ Open-source learning repository for anomaly detection fundamentals. Contributing
 
 <div align="center">
 <a href="https://github.com/Uszkido/pts-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=pts-project&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/Deen"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Deen&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/Smooth-Pizza-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Smooth-Pizza-Counter&theme=tokyonight&hide_border=true"/></a>
 <a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Uszkido/Smooth-Pizza-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Smooth-Pizza-Counter&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/Uszkido/usama"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=usama&theme=tokyonight&hide_border=true"/></a>
 </div>
 
 <br/>
