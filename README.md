@@ -82,10 +82,17 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 
 <img src="https://github-profile-trophy.vercel.app/?username=Uszkido&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
 </div>
 
-<br/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
+</picture>
 ## 🚀 Featured Projects
 
 <table>
@@ -175,4 +182,5 @@ Modern African streetwear brand platform — a full-stack e-commerce experience 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
 
 </div>
+
 
