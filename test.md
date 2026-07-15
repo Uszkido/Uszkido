@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Usama Ado Shehu
+# 👋 Hi, I'm **Usama Ado Shehu**
 
 ### Software Engineer • AI Engineer • Open Source Contributor
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+technology+that+solves+real+problems.;AI+%7C+Cybersecurity+%7C+Agritech.;Founder+of+Vexel+Innovations.;Open+Source+Contributor.;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+technology+that+solves+real+problems.;Software+Engineer+%7C+AI+Engineer.;Cybersecurity+%7C+Agritech+%7C+Open+Source.;Founder+%40+Vexel+Innovations.;Always+learning.+Always+building." alt="Typing SVG" />
 
 <br>
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/uszkido">
+<a href="https://www.linkedin.com/in/uszkido">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -30,7 +30,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&label=Profile+Views&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&label=PROFILE+VIEWS&color=58A6FF"/>
 
 </div>
 
@@ -38,45 +38,53 @@
 
 # 🚀 About Me
 
-I'm **Usama Ado Shehu (Uszkido)** — a software engineer passionate about building secure, scalable, and impactful technology.
+I'm **Usama Ado Shehu (Uszkido)**, a Software Engineer and founder of **Vexel Innovations**, passionate about building secure, scalable, and impactful technology.
 
-My work focuses on **Artificial Intelligence**, **Cybersecurity**, **Agritech**, and **Open Source**, where I enjoy turning ambitious ideas into production-ready solutions.
+My work focuses on **Artificial Intelligence**, **Cybersecurity**, **Agritech**, **Computer Vision**, and **Open Source**, creating products that solve real-world problems and empower communities through technology.
 
-Currently, I'm building products that tackle real-world challenges while contributing to the open-source ecosystem and continuously expanding my engineering skills.
+## 🔭 Current Projects
 
-### 🔭 Currently Building
+- 🛡️ **PTS** — Phone Theft Tracking System
+  - Secure device ownership verification platform with IMEI registration and verification.
 
-- 🛡 **PTS** — Phone Theft Tracking System
-- 🌾 **Kido Farms** — Agritech Marketplace
-- 🍕 **Smooth Pizza Counter** — Computer Vision & AI
-- 👕 **Usama** — Modern Fashion Platform
+- 🌾 **Kido Farms**
+  - Agritech platform connecting farmers with consumers through digital solutions.
 
-### 🌱 Exploring
+- 🍕 **Smooth Pizza Counter**
+  - AI-powered production monitoring system using YOLOv8 and OpenCV.
 
-- Artificial Intelligence
+- 👕 **Usama**
+  - Modern e-commerce platform for African fashion and lifestyle.
+
+## 🌱 Currently Learning
+
+- Advanced Artificial Intelligence
 - Computer Vision
-- Distributed Systems
 - Cloud Infrastructure
-- Cybersecurity
+- Distributed Systems
+- DevOps & Kubernetes
 
-### 🤝 Open Source
+## 🤝 Open Source
 
-I'm actively contributing to projects involving:
+I enjoy contributing to projects involving:
 
 - Artificial Intelligence
-- Developer Tools
-- Security
 - JavaScript Ecosystem
+- Security
+- Developer Tools
+- Open Source Communities
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 
 - JavaScript & TypeScript
-- Node.js & Express
-- Next.js
 - Python
+- Node.js & Express
+- Django
+- FastAPI
+- React & Next.js
+- PostgreSQL & MySQL
 - Computer Vision
 - REST APIs
-- PostgreSQL
 - Open Source
 
-> *"Build products people trust, not projects people forget."*
+> **"Building products people trust, not projects people forget."**
