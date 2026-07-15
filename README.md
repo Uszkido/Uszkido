@@ -462,9 +462,35 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 ## 📫 Get in Touch
 
+
+# 📫 Connect With Me
+
 <div align="center">
 
-📧 **usamaado36@gmail.com** &nbsp;|&nbsp; 📞 **+234 703 895 3065** &nbsp;|&nbsp; 🌍 **Lagos, Nigeria**
+<a href="mailto:usamaado36@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Uszkido">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/uszkido">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/uszkido_">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://github.com/Vexel-Innovations">
+<img src="https://img.shields.io/badge/Vexel%20Innovations-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
 
 </div>
 
@@ -477,5 +503,13 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 **Engineering scalable technology that solves real problems — for Africa, and the world. 🌍**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=40&lines=Thanks+for+stopping+by+%F0%9F%91%8B" alt="Footer" />
+
+</div>
+
+<div align="center">
+
+### 💡 *"Building secure, intelligent and scalable technology that creates lasting impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6e40c9&height=120&section=footer"/>
 
 </div>
