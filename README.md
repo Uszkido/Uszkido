@@ -173,6 +173,28 @@ Modern African streetwear brand platform — a full-stack e-commerce experience 
 
 <br/>
 
+## 🌍 Open Source Journey
+
+### Merged Contributions
+
+| Repository | Contribution | Status |
+|------------|--------------|--------|
+| kana-dojo | Fixed duplicate learning content | ✅ Merged |
+| anomaly-detection-resources | GitHub Actions automation | ✅ Merged |
+
+---
+
+### Currently Contributing To
+
+- Express.js
+- Next.js
+- Appwrite
+- Supabase
+- OpenCV
+- OpenMRS
+
+🎯 Goal: 100 merged pull requests by the end of 2026.
+
 ## 📫 Get in Touch
 
 <div align="center">
