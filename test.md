@@ -1,49 +1,82 @@
-### 📱 Mobile Development
+# 🚀 Building
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
-</p>
+I'm focused on creating secure, scalable, and impactful software across networking, artificial intelligence, cybersecurity, and agritech.
 
----
+<table>
+<tr>
+<td width="50%">
 
-### ⚙️ Backend
+### 📡 WireSpot
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,ruby" />
-</p>
+**Android hotspot management platform for MikroTik RouterOS**
 
----
+A production-focused Flutter application that enables hotspot operators and ISPs to manage MikroTik networks, generate vouchers, print receipts, monitor users, connect securely via WireGuard, and manage licensing—all from a mobile device.
 
-### 🗄️ Databases
+**Tech**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma" />
-</p>
+Flutter • Dart • Riverpod • GoRouter • Drift • SQLite • RouterOS API • WireGuard • Kotlin • Material 3
 
----
+**Highlights**
 
-### 🤖 Artificial Intelligence & Computer Vision
+- RouterOS API client built from scratch
+- WireGuard remote management
+- Voucher generation & QR codes
+- Bluetooth thermal printing
+- Reports & backups
+- Device-bound licensing
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</p>
+🔗 https://github.com/Uszkido/wirespot
 
-**Expertise**
+</td>
 
-- YOLOv8
-- ONNX Runtime
-- Computer Vision
-- Machine Learning
-- Groq AI
+<td width="50%">
 
----
+### 🛡️ PTS
 
-### 🌐 Networking & Infrastructure
+**Phone Theft Tracking System**
 
-**Technologies**
+A secure platform for verifying mobile device ownership and helping combat phone theft through trusted digital identity.
 
-- MikroTik RouterOS API
-- WireGuard VPN
-- Bluetooth ESC/POS Printing
-- QR Code Generation
-- REST APIs
+**Tech**
+
+Next.js • Node.js • Express • PostgreSQL • Prisma
+
+🔗 https://github.com/Uszkido/pts-project
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌾 Kido Farms
+
+**Agritech Marketplace**
+
+Connecting farmers, buyers, and agribusinesses through modern digital infrastructure.
+
+**Tech**
+
+Next.js • TypeScript • Node.js • PostgreSQL
+
+🔗 https://github.com/Uszkido/kidofarms-frontend
+
+</td>
+
+<td width="50%">
+
+### 🍕 Smooth Pizza Counter
+
+**AI Production Monitoring**
+
+Computer Vision application using YOLOv8 for automated object detection and production-line counting.
+
+**Tech**
+
+Python • OpenCV • YOLOv8 • Flask
+
+🔗 https://github.com/Uszkido/Smooth-Pizza-Counter
+
+</td>
+</tr>
+</table>
