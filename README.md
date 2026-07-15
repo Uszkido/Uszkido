@@ -425,14 +425,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 | [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Identified duplicate-content issue, shipped verified replacement | `content` · JSON |
 | [`ditekshen/detection`](https://github.com/Uszkido/detection) | Yara/Snort/ClamAV detection signature contributions for malware and IOC rules | `security` · YARA |
 
-<br/>
-
-<div align="center">
-<a href="https://github.com/Uszkido/pts-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=pts-project&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/Smooth-Pizza-Counter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=Smooth-Pizza-Counter&theme=tokyonight&hide_border=true"/></a>
-<a href="https://github.com/Uszkido/usama"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=usama&theme=tokyonight&hide_border=true"/></a>
-</div>
 
 <br/>
 
@@ -493,8 +485,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 </div>
 
 <br/>
-
-## ⚡ Vision
 
 <div align="center">
 
