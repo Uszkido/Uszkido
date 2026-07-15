@@ -1,108 +1,82 @@
-# 🛠 Tech Stack
+<div align="center">
 
-### 💻 Languages
+# 👋 Hi, I'm Usama Ado Shehu
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,ruby" />
-</p>
+### Software Engineer • AI Engineer • Open Source Contributor
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Building+technology+that+solves+real+problems.;AI+%7C+Cybersecurity+%7C+Agritech.;Founder+of+Vexel+Innovations.;Open+Source+Contributor.;Always+learning.+Always+building." alt="Typing SVG"/>
 
-### 🎨 Frontend
+<br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,electron" />
-</p>
+<a href="https://github.com/Uszkido">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Also Work With**
+<a href="https://linkedin.com/in/uszkido">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- Framer Motion
-- Capacitor
-- Responsive UI/UX
+<a href="https://x.com/uszkido_">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
 
----
+<a href="mailto:usamaado36@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### ⚙️ Backend
+<a href="https://github.com/Vexel-Innovations">
+<img src="https://img.shields.io/badge/Vexel%20Innovations-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,ruby" />
-</p>
+<br><br>
 
-**Also Work With**
+<img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&label=Profile+Views&color=58A6FF"/>
 
-- REST APIs
-- JWT Authentication
-- OAuth 2.0
-- Socket.IO
-- Multer
-- Cloudinary
-- Paystack API
-- Groq API
-- ONNX Runtime
-- API Integration
-- Authentication & Authorization
+</div>
 
 ---
 
-### 🗄️ Databases
+# 🚀 About Me
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
-</p>
+I'm **Usama Ado Shehu (Uszkido)** — a software engineer passionate about building secure, scalable, and impactful technology.
 
-**Also Work With**
+My work focuses on **Artificial Intelligence**, **Cybersecurity**, **Agritech**, and **Open Source**, where I enjoy turning ambitious ideas into production-ready solutions.
 
-- NoSQL Databases
-- Drizzle ORM
-- Neon Database
+Currently, I'm building products that tackle real-world challenges while contributing to the open-source ecosystem and continuously expanding my engineering skills.
 
----
+### 🔭 Currently Building
 
-### 🤖 Artificial Intelligence & Computer Vision
+- 🛡 **PTS** — Phone Theft Tracking System
+- 🌾 **Kido Farms** — Agritech Marketplace
+- 🍕 **Smooth Pizza Counter** — Computer Vision & AI
+- 👕 **Usama** — Modern Fashion Platform
 
-<p>
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
-</p>
+### 🌱 Exploring
 
-**Technologies**
-
-- YOLOv8
-- ONNX
-- Groq AI
-- Machine Learning
+- Artificial Intelligence
 - Computer Vision
-- Object Detection
-- Image Processing
+- Distributed Systems
+- Cloud Infrastructure
+- Cybersecurity
 
----
+### 🤝 Open Source
 
-### ☁️ DevOps & Cloud
+I'm actively contributing to projects involving:
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel" />
-</p>
+- Artificial Intelligence
+- Developer Tools
+- Security
+- JavaScript Ecosystem
 
-**Also Work With**
+### 💬 Ask Me About
 
-- Cloudinary
-- GitHub Actions
-- CI/CD Pipelines
-- Deployment Automation
+- JavaScript & TypeScript
+- Node.js & Express
+- Next.js
+- Python
+- Computer Vision
+- REST APIs
+- PostgreSQL
+- Open Source
 
----
-
-### 🧰 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,bash" />
-</p>
-
-**Daily Workflow**
-
-- Git
-- GitHub
-- Postman
-- VS Code
-- Figma
-- npm
-- Linux
+> *"Build products people trust, not projects people forget."*
