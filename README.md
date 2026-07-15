@@ -29,31 +29,90 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
-![JavaScript](https://skillicons.dev/icons?i=js,ts,python,cpp)
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+</p>
 
-### Frontend
+---
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css)
+### 🎨 Frontend
 
-### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,electron" />
+</p>
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi)
+---
 
-### Database
+### ⚙️ Backend
 
-![Database](https://skillicons.dev/icons?i=postgres,mongodb)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm" />
+</p>
 
-### DevOps
+**Also Work With**
 
-![DevOps](https://skillicons.dev/icons?i=docker,git,github,linux,vercel)
+- REST APIs
+- JWT Authentication
+- Socket.IO
+- Multer
+- Cloudinary
+- Paystack
+- Groq API
+- ONNX Runtime
 
-**AI / CV**
-<br/>
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Groq_AI-FF6B35?style=for-the-badge&logoColor=white"/>
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
+</p>
+
+**Also Work With**
+
+- NoSQL Databases
+- Drizzle ORM
+- Neon Database
+
+---
+
+### 🤖 Artificial Intelligence & Computer Vision
+
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow" />
+</p>
+
+**Technologies**
+
+- YOLOv8
+- ONNX
+- Groq AI
+- Computer Vision
+- Object Detection
+
+---
+
+### ☁️ DevOps & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel" />
+</p>
+
+**Also Use**
+
+- Cloudinary
+- Vercel
+- GitHub Actions
+
+---
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash,figma" />
+</p>
 
 
 </div>
