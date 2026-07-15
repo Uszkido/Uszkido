@@ -32,7 +32,7 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,ruby" />
 </p>
 
 ---
@@ -43,24 +43,33 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,electron" />
 </p>
 
+**Also Work With**
+
+- Framer Motion
+- Capacitor
+- Responsive UI/UX
+
 ---
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,ruby" />
 </p>
 
 **Also Work With**
 
 - REST APIs
 - JWT Authentication
+- OAuth 2.0
 - Socket.IO
 - Multer
 - Cloudinary
-- Paystack
+- Paystack API
 - Groq API
 - ONNX Runtime
+- API Integration
+- Authentication & Authorization
 
 ---
 
@@ -89,8 +98,10 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 - YOLOv8
 - ONNX
 - Groq AI
+- Machine Learning
 - Computer Vision
 - Object Detection
+- Image Processing
 
 ---
 
@@ -100,22 +111,31 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel" />
 </p>
 
-**Also Use**
+**Also Work With**
 
 - Cloudinary
-- Vercel
 - GitHub Actions
+- CI/CD Pipelines
+- Deployment Automation
 
 ---
 
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,postman,npm,bash,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,bash" />
 </p>
 
+**Daily Workflow**
 
-</div>
+- Git
+- GitHub
+- Postman
+- VS Code
+- Figma
+- npm
+- Linux
+
 
 <br/>
 
