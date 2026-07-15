@@ -414,54 +414,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
   <img alt="snake animation" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/github-contribution-grid-snake.svg"/>
 </picture>
 
-<br/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📱 [PTS — Phone Theft Tracking System](https://github.com/Uszkido/pts-project)
-Decentralized device security registry — every phone gets an immutable certificate tied to its IMEI at point of sale. Ownership transfers are logged on an auditable chain; anyone can verify if a device is stolen before purchase.
-
-`Next.js` `Node.js` `PostgreSQL` `Prisma` `Groq`
-
-**Live:** [pts-frontend-ten.vercel.app](https://pts-frontend-ten.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍕 [Smooth Pizza Counter](https://github.com/Uszkido/Smooth-Pizza-Counter)
-Real-time computer vision system for production-line pizza counting. Detects and tracks units with a trained YOLOv8/ONNX model, serves live throughput data through a login-protected Flask web dashboard, and ships as a packaged Windows executable for factory deployment.
-
-`Python` `YOLOv8` `OpenCV` `Flask` `ONNX`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌱 [Kido Farms — Sovereignty Network](https://github.com/Uszkido/kidofarms-frontend)
-West Africa's farm-to-table agritech marketplace. Farmers list produce with digital Harvest Passports (QR-traced from field to table), buyers get live market price tickers across Nigerian cities, and the platform handles Paystack payments, cold-chain logistics, and NDVI satellite growth tracking.
-
-`Next.js 15` `TypeScript` `Express` `PostgreSQL` `Paystack`
-
-**Live:** [kidofarms.vercel.app](https://kidofarms.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 👕 [Usama](https://github.com/Uszkido/usama)
-Modern African streetwear brand platform — a full-stack e-commerce experience blending clean design with bold identity. Currently in active development.
-
-`JavaScript` `Node.js` `In Development`
-
-**Live:** [usama-frontend.vercel.app](https://usama-frontend.vercel.app)
-
-</td>
-</tr>
-</table>
 
 <br/>
 
