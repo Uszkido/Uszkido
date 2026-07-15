@@ -87,6 +87,14 @@ I'm Usama (known as **Uszkido**), a full-stack software developer and founder bu
 
 ---
 
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+</p>
+
+---
+
 ### 🤖 Artificial Intelligence & Computer Vision
 
 <p>
