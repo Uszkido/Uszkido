@@ -450,7 +450,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 🎯 Goal: 50+ merged pull requests by the end of 2026.
 
-## 📫 Get in Touch
 
 
 # 📫 Connect With Me
