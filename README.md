@@ -427,8 +427,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 <br/>
 
-## 📌 Pinned Repositories
-
 <div align="center">
 <a href="https://github.com/Uszkido/pts-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=pts-project&theme=tokyonight&hide_border=true"/></a>
 <a href="https://github.com/Uszkido/kidofarms-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Uszkido&repo=kidofarms-frontend&theme=tokyonight&hide_border=true"/></a>
@@ -508,7 +506,6 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 <div align="center">
 
-### 💡 *"Building secure, intelligent and scalable technology that creates lasting impact."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:6e40c9&height=120&section=footer"/>
 
