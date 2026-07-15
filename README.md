@@ -193,7 +193,7 @@ Modern African streetwear brand platform — a full-stack e-commerce experience 
 - OpenCV
 - OpenMRS
 
-🎯 Goal: 100 merged pull requests by the end of 2026.
+🎯 Goal: 50+ merged pull requests by the end of 2026.
 
 ## 📫 Get in Touch
 
