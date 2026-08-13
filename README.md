@@ -426,7 +426,8 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 | Project | Contribution | Type |
 |---|---|---|
 | [`Uszkido/anomaly-detection-resources`](https://github.com/Uszkido/anomaly-detection-resources) | GitHub Actions automation (link checker, arXiv watcher, stale bot) | `automation` · GitHub Actions · Python |
-| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo) | Identified duplicate-content issue, shipped verified replacement | `content` · JSON |
+| [`optuna/optuna`](https://github.com/optuna/optuna/pull/6797) | Added an opt-in `is_best` column to `Study.trials_dataframe()` for best and Pareto-optimal trials, with test coverage | `contribution` · Python · Pandas · Under review |
+| [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo/pull/20990) | Added educational content about Nara's sika deer | `content` · JSON · Merged |
 | [`ditekshen/detection`](https://github.com/Uszkido/detection) | Yara/Snort/ClamAV detection signature contributions for malware and IOC rules | `security` · YARA |
 
 
@@ -438,13 +439,22 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 | Repository | Contribution | Status |
 |------------|--------------|--------|
-| kana-dojo | Fixed duplicate learning content | ✅ Merged |
+| kana-dojo | Added educational content about Nara's sika deer | ✅ Merged |
 | anomaly-detection-resources | GitHub Actions automation | ✅ Merged |
+
+---
+
+### Open Pull Requests
+
+| Repository | Contribution | Status |
+|------------|--------------|--------|
+| [optuna/optuna](https://github.com/optuna/optuna/pull/6797) | Add `is_best` support to `Study.trials_dataframe()` with single- and multi-objective test coverage | 🟡 Under review |
 
 ---
 
 ### Currently Contributing To
 
+- Optuna
 - Express.js
 - Next.js
 - Appwrite
