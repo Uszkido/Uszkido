@@ -58,23 +58,27 @@ My goal is simple:
 
 ## 📡 WireSpot
 
-### Android Hotspot Management Platform
+### Multi-Brand Hotspot Operations Platform
 
-Secure MikroTik RouterOS hotspot management application for ISPs, hotspot operators and network technicians.
+Flutter application for ISPs, hotspot operators, and network technicians. It
+provides full live MikroTik RouterOS operations today, with a multi-brand
+foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and
+generic router integrations.
 
 ### Features
 
-- 📶 MikroTik RouterOS API
+- 📶 MikroTik RouterOS API and multi-router fleet operations
 - 🔐 WireGuard VPN
-- 🎫 Voucher Generation
-- 🖨 Thermal Receipt Printing
+- ☁️ Ruijie Cloud connection verification and device discovery
+- 🎫 Configurable voucher generation, QR codes, and ticket templates
+- 🖨 Co-branded Bluetooth thermal receipt printing
 - 📊 Sales & Reports
 - 🔑 Device Licensing
-- 📱 Flutter Mobile App
+- ⏱️ In-app scheduler for sessions, voucher cleanup, sales summaries, and backups
 
 **Stack**
 
-Flutter • Dart • Riverpod • GoRouter • SQLite • RouterOS API • WireGuard • Kotlin
+Flutter • Dart • Riverpod • GoRouter • Drift/SQLite • RouterOS API • WireGuard • Kotlin
 
 <p align="center">
 
