@@ -48,6 +48,14 @@ My goal is simple:
 
 ---
 
+## 🔭 Current Focus
+
+- Building **WireSpot**, a multi-brand hotspot operations platform for ISPs and network operators.
+- Contributing to **Optuna**; my [`is_best` dataframe enhancement](https://github.com/optuna/optuna/pull/6797) is currently under review.
+- Developing practical AI, computer-vision, networking, and agritech products through Vexel Innovations.
+
+---
+
 # 🚀 Featured Products
 
 <table>
@@ -156,6 +164,10 @@ Next.js • TypeScript • Express • PostgreSQL • Drizzle • Tailwind CSS
 
 <a href="https://github.com/Uszkido/kidofarms-frontend">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://kidofarms.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -455,6 +467,9 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 ### Currently Contributing To
 
 - Optuna
+
+### Interested in Contributing To
+
 - Express.js
 - Next.js
 - Appwrite
