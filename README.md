@@ -42,16 +42,25 @@
 
 ## 💫 About Me
 
-I'm **Usama Ado Shehu (Uszkido)**, a Software Engineer and Founder of **Vexel Innovations** based in Nigeria 🇳🇬.
+<table>
+<tr>
+<td>
 
-I specialize in building high-performance software across **Artificial Intelligence**, **Computer Vision**, **Cybersecurity**, **Networking**, **Agritech**, and **Mobile Engineering**. 
+### 👨‍💻 Usama Ado Shehu (Uszkido)
+**Software Engineer & Founder @ [Vexel Innovations](https://github.com/Vexel-Innovations)** • *Nigeria 🇳🇬*
+
+I build secure, scalable, and intelligent software systems across **Artificial Intelligence**, **Computer Vision**, **Cybersecurity**, **Networking**, **Agritech**, and **Mobile Engineering**.
 
 > 🎯 **Mission:** *Build scalable, secure, and intelligent technology that solves real-world challenges across Africa and beyond.*
 
-### 🔭 Current Focus
-- 📡 **WireSpot:** Multi-brand hotspot operations platform for ISPs and network technicians.
-- ⚡ **Optuna Contribution:** [`is_best` dataframe feature](https://github.com/optuna/optuna/pull/6797) under active core review.
-- 🤖 **Industrial AI & CV:** Production computer-vision, networking, and agritech systems through Vexel Innovations.
+#### 🔭 Current Focus
+- 📡 **[WireSpot](https://github.com/Uszkido/wirespot):** Multi-brand hotspot operations platform for ISPs and network technicians.
+- ⚡ **Optuna Core:** [`is_best` dataframe feature](https://github.com/optuna/optuna/pull/6797) under active core review.
+- 🤖 **Vexel Innovations:** Production AI, computer-vision, networking, and agritech systems.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,32 +70,38 @@ I specialize in building high-performance software across **Artificial Intellige
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 📡 WireSpot
 **Multi-Brand Hotspot Operations Platform**
 
-Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
+Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS API operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
 
 **⚡ Key Capabilities:**
-- 📶 MikroTik RouterOS API & multi-router fleet management
-- 🔐 WireGuard VPN integration & Ruijie Cloud discovery
+- 📶 MikroTik RouterOS API & fleet ops
+- 🔐 WireGuard VPN & Ruijie Cloud discovery
 - 🎫 Voucher generation, QR codes & ticket templates
 - 🖨️ Co-branded Bluetooth thermal receipt printing
 
-`Flutter` • `Dart` • `Riverpod` • `GoRouter` • `Drift/SQLite` • `WireGuard` • `Kotlin`
-
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+</p>
+
 <p align="center">
-<a href="https://github.com/Uszkido/wirespot">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/Uszkido/wirespot">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ PTS
 **Phone Tracking & IMEI Verification System**
@@ -99,17 +114,23 @@ Decentralized device ownership verification platform for IMEI registration, thef
 - 🔐 JWT Authentication & Cloud Storage
 - 🤖 AI Command Center
 
-`Next.js` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `Cloudinary` • `Groq AI`
-
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq%20AI-00F5FF?style=flat-square&logo=openai&logoColor=black"/>
+</p>
+
 <p align="center">
-<a href="https://github.com/Uszkido/pts-project">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://pts-vexel.vercel.app">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
-</a>
+  <a href="https://github.com/Uszkido/pts-project">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://pts-vexel.vercel.app">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 </td>
@@ -118,7 +139,7 @@ Decentralized device ownership verification platform for IMEI registration, thef
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌾 Kido Farms
 **Smart Agritech Marketplace**
@@ -130,22 +151,28 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 - 💳 Paystack Payments & Logistics Tracking
 - 🤖 AI Assistant & Live Market Prices
 
-`Next.js` • `TypeScript` • `Express` • `PostgreSQL` • `Drizzle` • `Tailwind CSS`
-
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+</p>
+
 <p align="center">
-<a href="https://github.com/Uszkido/kidofarms-frontend">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="https://kidofarms.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
-</a>
+  <a href="https://github.com/Uszkido/kidofarms-frontend">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://kidofarms.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-00C853?style=for-the-badge&logo=vercel"/>
+  </a>
 </p>
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌽 CornVision™
 **Industrial Computer Vision & Quality Assurance**
@@ -157,14 +184,54 @@ Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspec
 - 📊 Predictive Analytics & Industrial Dashboard
 - 🔗 REST & WebSocket APIs
 
-`Python` • `OpenCV` • `YOLO` • `Docker` • `Flask` • `SQL`
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00F5FF?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Uszkido/CornVision">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+### 🍕 Smooth Pizza Counter
+**AI Production Line Monitoring**
+
+Real-time Computer Vision system for automated pizza detection and production-line monitoring.
+
+**⚡ Key Capabilities:**
+- 🍕 YOLOv8 Object Detection & Live Camera Streams
+- 📊 Production Dashboard & Automatic Counting
+- 🌐 Web Interface & Session Logging
 
 <br/>
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00F5FF?style=flat-square&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
 <p align="center">
-<a href="https://github.com/Uszkido/CornVision">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://github.com/Uszkido/Smooth-Pizza-Counter">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 </td>
