@@ -509,6 +509,9 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+1. ℹ️ Assigned PR [#38](https://github.com/Uszkido/wirespot/pull/38) in [Uszkido/wirespot](https://github.com/Uszkido/wirespot)
+2. 💪 Opened PR [#6814](https://github.com/optuna/optuna/pull/6814) in [optuna/optuna](https://github.com/optuna/optuna)
+3. ❌ Closed PR [#24](https://github.com/Uszkido/wirespot/pull/24) in [Uszkido/wirespot](https://github.com/Uszkido/wirespot)
 <!--END_SECTION:activity-->
 
 <br/>
