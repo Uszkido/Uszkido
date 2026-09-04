@@ -111,7 +111,7 @@ Through **Vexel Innovations**, I partner with startups, enterprises, ISPs, and i
 **Multi-Brand Hotspot Operations Platform**
 
 <p align="center">
-  <img src="assets/wirespot_preview.png" width="100%" alt="WireSpot Preview"/>
+  <img src="assets/wirespot_preview.png" width="100%" alt="WireSpot Real App Preview"/>
 </p>
 
 Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS API operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
@@ -146,7 +146,7 @@ Flutter application for ISPs, hotspot operators, and network technicians. Provid
 **Phone Tracking & IMEI Verification System**
 
 <p align="center">
-  <img src="assets/pts_preview.png" width="100%" alt="PTS Preview"/>
+  <img src="assets/pts_real.png" width="100%" alt="PTS Real System Screenshot"/>
 </p>
 
 Decentralized device ownership verification platform for IMEI registration, theft reporting, and digital ownership certificates.
@@ -188,7 +188,7 @@ Decentralized device ownership verification platform for IMEI registration, thef
 **Smart Agritech Marketplace**
 
 <p align="center">
-  <img src="assets/kidofarms_preview.png" width="100%" alt="Kido Farms Preview"/>
+  <img src="assets/kidofarms_real.png" width="100%" alt="Kido Farms Real System Screenshot"/>
 </p>
 
 Digital infrastructure connecting verified farmers directly with consumers across Africa.
@@ -225,7 +225,7 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 **Industrial Computer Vision & Quality Assurance**
 
 <p align="center">
-  <img src="assets/cornvision_preview.png" width="100%" alt="CornVision Preview"/>
+  <img src="assets/cornvision_real.png" width="100%" alt="CornVision Real AI Inspection Sample"/>
 </p>
 
 Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspection.
