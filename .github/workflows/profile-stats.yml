@@ -1,4 +1,4 @@
-name: Update Activity Graph
+name: Generate Profile Visualizations
 
 on:
   schedule:
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate activity graph
+      - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: Uszkido
@@ -27,11 +27,29 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Generate 3D Profile Graphs
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: Uszkido
+
+      - name: Copy 3D SVGs to dist
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/*.svg dist/
+
+      - name: Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Uszkido
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push all SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
