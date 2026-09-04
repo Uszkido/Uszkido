@@ -111,7 +111,7 @@ Through **Vexel Innovations**, I partner with startups, enterprises, ISPs, and i
 **Multi-Brand Hotspot Operations Platform**
 
 <p align="center">
-  <img src="assets/wirespot_preview.png" width="100%" alt="WireSpot Real App Preview"/>
+  <img src="assets/wirespot_app_real.jpg" width="100%" alt="WireSpot Real Mobile App Screenshot"/>
 </p>
 
 Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS API operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
