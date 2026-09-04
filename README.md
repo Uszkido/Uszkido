@@ -32,6 +32,14 @@
 
 <img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Projects_Built-5%2B-58A6FF?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Open_Source-Optuna_Contributor-00C853?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Goal-50%2B_PRs_in_2026-6E40C9?style=flat-square&logo=target" />
+</p>
+
 </div>
 
 ---
@@ -390,6 +398,14 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 <br/>
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Uszkido&theme=darkhub&no-frame=true&column=6&margin-w=15" />
+</p>
+
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
@@ -414,6 +430,14 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 <img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/activity-graph.svg" alt="Contribution Graph"/>
 
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-3d-contrib/profile-green-animate.svg"/>
+    <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-3d-contrib/profile-night-rainbow.svg"/>
+  </picture>
 </p>
 
 > *"Python does not solve problems - it gives you the clarity to see that the real problem was never the code."*
@@ -480,6 +504,14 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 🎯 Goal: 50+ merged pull requests by the end of 2026.
 
 
+<br/>
+
+## ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<br/>
 
 ## 📫 Connect With Me
 
