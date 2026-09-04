@@ -248,30 +248,30 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 ### 💻 Core Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,ruby&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,ruby,dart,kotlin&perline=7" />
 </p>
 
 ### 🎨 Frontend & Mobile Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,dart,kotlin,electron&perline=9" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,electron&perline=7" />
 </p>
 
 ### ⚙️ Backend & API Ecosystem
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,ruby&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,ruby&perline=6" />
 </p>
 
 ### 🗄️ Databases & ORMs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,prisma&perline=5" />
 </p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow&perline=8" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow&perline=2" />
 </p>
 
-### ☁️ DevOps & Tools
+### ☁️ DevOps & Infrastructure
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel,vscode,postman,figma,npm,bash&perline=11" />
 </p>
@@ -289,12 +289,12 @@ Real-time Computer Vision system for automated pizza detection and production-li
 <br/>
 
 <p align="center">
-<img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=Uszkido&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=Uszkido&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Uszkido&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Uszkido&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -346,23 +346,25 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 <div align="center">
 
-<a href="mailto:usamaado36@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Uszkido">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/uszkido">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://x.com/uszkido_">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-<a href="https://github.com/Vexel-Innovations">
-  <img src="https://img.shields.io/badge/Vexel%20Innovations-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+  <a href="mailto:usamaado36@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Uszkido">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/uszkido">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/uszkido_">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Vexel-Innovations">
+    <img src="https://img.shields.io/badge/Vexel%20Innovations-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<br/><br/>
+<br/>
 
 **Engineering scalable technology that solves real problems — for Africa, and the world. 🌍**
 
