@@ -352,6 +352,10 @@ Real-time Computer Vision system for automated pizza detection and production-li
   <img src="https://streak-stats.demolab.com?user=Uszkido&theme=github-dark&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-extended.vercel.app/api/wakatime?username=Uszkido&theme=github_dark&hide_border=true" alt="WakaTime Stats"/>
+</p>
+
 ---
 
 ## ⚡ Daily Developer Quote
