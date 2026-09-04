@@ -64,6 +64,41 @@ I build secure, scalable, and intelligent software systems across **Artificial I
 
 ---
 
+## 💼 Work With Me & Vexel Innovations
+
+<table>
+<tr>
+<td>
+
+### 🚀 Engineering & Consulting Services
+
+Through **Vexel Innovations**, I partner with startups, enterprises, ISPs, and industrial plants to build production-grade technology solutions.
+
+| Service Area | Deliverables & Capabilities |
+| :--- | :--- |
+| 📡 **ISP & Hotspot Infrastructure** | Multi-vendor MikroTik/Ruijie/OpenWrt hotspot apps, voucher printers & WireGuard VPNs |
+| 📱 **Cross-Platform Mobile Apps** | Production Flutter & React Native apps with native Android/Kotlin modules & offline SQLite |
+| 🌐 **Full-Stack Web Engineering** | High-performance Next.js, Node.js, PostgreSQL, Prisma & Drizzle web applications |
+| 🤖 **Industrial AI & Computer Vision** | YOLOv8 object detection, OpenCV video pipelines, QA monitoring & Groq AI integrations |
+| 🛡️ **Cybersecurity & Threat Audit** | Custom YARA/Snort malware detection signatures, API security & auth protocols |
+
+<br/>
+
+<p align="center">
+  <a href="mailto:usamaado36@gmail.com?subject=Inquiry%20for%20Vexel%20Innovations">
+    <img src="https://img.shields.io/badge/Hire%20Vexel%20Innovations-00F5FF?style=for-the-badge&logo=googlemail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/Vexel-Innovations">
+    <img src="https://img.shields.io/badge/Explore%20Vexel%20Repos-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🚀 Featured Products
 
 <table>
@@ -74,6 +109,10 @@ I build secure, scalable, and intelligent software systems across **Artificial I
 
 ### 📡 WireSpot
 **Multi-Brand Hotspot Operations Platform**
+
+<p align="center">
+  <img src="assets/wirespot_preview.png" width="100%" alt="WireSpot Preview"/>
+</p>
 
 Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS API operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
 
@@ -105,6 +144,10 @@ Flutter application for ISPs, hotspot operators, and network technicians. Provid
 
 ### 🛡️ PTS
 **Phone Tracking & IMEI Verification System**
+
+<p align="center">
+  <img src="assets/pts_preview.png" width="100%" alt="PTS Preview"/>
+</p>
 
 Decentralized device ownership verification platform for IMEI registration, theft reporting, and digital ownership certificates.
 
@@ -144,6 +187,10 @@ Decentralized device ownership verification platform for IMEI registration, thef
 ### 🌾 Kido Farms
 **Smart Agritech Marketplace**
 
+<p align="center">
+  <img src="assets/kidofarms_preview.png" width="100%" alt="Kido Farms Preview"/>
+</p>
+
 Digital infrastructure connecting verified farmers directly with consumers across Africa.
 
 **⚡ Key Capabilities:**
@@ -176,6 +223,10 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 
 ### 🌽 CornVision™
 **Industrial Computer Vision & Quality Assurance**
+
+<p align="center">
+  <img src="assets/cornvision_preview.png" width="100%" alt="CornVision Preview"/>
+</p>
 
 Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspection.
 
@@ -295,6 +346,14 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Uszkido&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Daily Developer Quote
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=dark" alt="Daily Tech Quote"/>
 </p>
 
 ---
