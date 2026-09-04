@@ -1,15 +1,15 @@
 ﻿<div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:00F5FF,100:6E40C9&height=210&section=header&text=USAMA%20ADO%20SHEHU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:1E293B,70:00F5FF,100:6E40C9&height=200&section=header&text=USAMA%20ADO%20SHEHU&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36"/>
 
-### ⚡ FOUNDER OF VEXEL INNOVATIONS • SOFTWARE & AI ENGINEER ⚡
+### ⚡ SOFTWARE ENGINEER • AI & COMPUTER VISION • FOUNDER @ VEXEL INNOVATIONS ⚡
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+%26+Computer+Vision+Developer;Founder+of+Vexel+Innovations;Open+Source+Contributor;Building+Digital+Infrastructure+for+Africa" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3500&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=Building+Secure%2C+Scalable+%26+Intelligent+Software;Founder+of+Vexel+Innovations;Open+Source+Contributor+%40+Optuna;Engineering+Digital+Infrastructure+for+Africa" alt="Typing SVG"/>
 
 <br/>
 
-<!-- Cyber Social Badges -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://github.com/Uszkido">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,12 +28,9 @@
   </a>
 </p>
 
-<!-- Profile Views & Metrics Bar -->
+<!-- Quick Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Uszkido&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Uszkido&style=flat-square&color=00F5FF&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/badge/Projects_Built-5%2B-00F5FF?style=flat-square&logo=github" />
   <img src="https://img.shields.io/badge/Open_Source-Optuna_Contributor-00C853?style=flat-square&logo=python" />
   <img src="https://img.shields.io/badge/Goal-50%2B_PRs_in_2026-6E40C9?style=flat-square&logo=target" />
@@ -43,34 +40,22 @@
 
 ---
 
-# 🛸 System Status & Bio
+## 💫 About Me
 
-```json
-{
-  "developer": "Usama Ado Shehu (Uszkido)",
-  "role": "Software Engineer & Founder @ Vexel Innovations",
-  "status": "Online | Engineering Scalable Digital Infrastructure",
-  "location": "Nigeria 🇳🇬",
-  "domain_expertise": [
-    "Artificial Intelligence & Computer Vision",
-    "Cybersecurity & Networking",
-    "Agritech & Industry 4.0",
-    "Mobile & Cross-Platform Engineering",
-    "Open Source Infrastructure"
-  ],
-  "mission": "Build technology that solves real problems across Africa and beyond."
-}
-```
+I'm **Usama Ado Shehu (Uszkido)**, a Software Engineer and Founder of **Vexel Innovations** based in Nigeria 🇳🇬.
+
+I specialize in building high-performance software across **Artificial Intelligence**, **Computer Vision**, **Cybersecurity**, **Networking**, **Agritech**, and **Mobile Engineering**. 
+
+> 🎯 **Mission:** *Build scalable, secure, and intelligent technology that solves real-world challenges across Africa and beyond.*
 
 ### 🔭 Current Focus
-
-- 📡 **WireSpot:** Multi-brand hotspot operations platform for ISPs and network operators.
-- ⚡ **Optuna Contribution:** [`is_best` dataframe enhancement](https://github.com/optuna/optuna/pull/6797) under review.
-- 🤖 **Industrial AI & CV:** Practical computer-vision, networking, and agritech products through Vexel Innovations.
+- 📡 **WireSpot:** Multi-brand hotspot operations platform for ISPs and network technicians.
+- ⚡ **Optuna Contribution:** [`is_best` dataframe feature](https://github.com/optuna/optuna/pull/6797) under active core review.
+- 🤖 **Industrial AI & CV:** Production computer-vision, networking, and agritech systems through Vexel Innovations.
 
 ---
 
-# 🚀 Featured Products
+## 🚀 Featured Products
 
 <table>
 
@@ -79,20 +64,17 @@
 <td width="50%">
 
 ### 📡 WireSpot
-> **Multi-Brand Hotspot Operations Platform**
+**Multi-Brand Hotspot Operations Platform**
 
-Flutter application for ISPs, hotspot operators, and network technicians. Provides full live MikroTik RouterOS operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
+Flutter application for ISPs, hotspot operators, and network technicians. Provides live MikroTik RouterOS operations today, with a multi-brand foundation for Ruijie/Reyee, OpenWrt, TP-Link Omada, Ubiquiti UniFi, and generic router integrations.
 
 **⚡ Key Capabilities:**
-- 📶 MikroTik RouterOS API & multi-router fleet ops
-- 🔐 WireGuard VPN integration
-- ☁️ Ruijie Cloud connection & device discovery
-- 🎫 Configurable voucher generation, QR codes & ticket templates
+- 📶 MikroTik RouterOS API & multi-router fleet management
+- 🔐 WireGuard VPN integration & Ruijie Cloud discovery
+- 🎫 Voucher generation, QR codes & ticket templates
 - 🖨️ Co-branded Bluetooth thermal receipt printing
-- 📊 Sales & Reports, Device Licensing, & Session Scheduler
 
-**🛠️ Tech Stack:**
-`Flutter` • `Dart` • `Riverpod` • `GoRouter` • `Drift/SQLite` • `RouterOS API` • `WireGuard` • `Kotlin`
+`Flutter` • `Dart` • `Riverpod` • `GoRouter` • `Drift/SQLite` • `WireGuard` • `Kotlin`
 
 <br/>
 
@@ -107,9 +89,9 @@ Flutter application for ISPs, hotspot operators, and network technicians. Provid
 <td width="50%">
 
 ### 🛡️ PTS
-> **Phone Tracking & IMEI Verification System**
+**Phone Tracking & IMEI Verification System**
 
-A decentralized device ownership verification platform for secure IMEI registration, theft reporting, and digital ownership certificates.
+Decentralized device ownership verification platform for IMEI registration, theft reporting, and digital ownership certificates.
 
 **⚡ Key Capabilities:**
 - 📱 IMEI Verification & Ownership Certificates
@@ -117,7 +99,6 @@ A decentralized device ownership verification platform for secure IMEI registrat
 - 🔐 JWT Authentication & Cloud Storage
 - 🤖 AI Command Center
 
-**🛠️ Tech Stack:**
 `Next.js` • `Node.js` • `Express` • `PostgreSQL` • `Prisma` • `Cloudinary` • `Groq AI`
 
 <br/>
@@ -140,7 +121,7 @@ A decentralized device ownership verification platform for secure IMEI registrat
 <td width="50%">
 
 ### 🌾 Kido Farms
-> **Smart Agritech Marketplace**
+**Smart Agritech Marketplace**
 
 Digital infrastructure connecting verified farmers directly with consumers across Africa.
 
@@ -148,9 +129,7 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 - 🌾 Harvest Passports & Direct Marketplace
 - 💳 Paystack Payments & Logistics Tracking
 - 🤖 AI Assistant & Live Market Prices
-- 🛰️ Farm Monitoring
 
-**🛠️ Tech Stack:**
 `Next.js` • `TypeScript` • `Express` • `PostgreSQL` • `Drizzle` • `Tailwind CSS`
 
 <br/>
@@ -169,17 +148,15 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 <td width="50%">
 
 ### 🌽 CornVision™
-> **Industrial Computer Vision & QA**
+**Industrial Computer Vision & Quality Assurance**
 
-Enterprise AI-powered quality assurance platform for food manufacturing and Industry 4.0.
+Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspection.
 
 **⚡ Key Capabilities:**
 - 👁️ Automated Inspection & Real-time Detection
 - 📊 Predictive Analytics & Industrial Dashboard
-- 🌍 Multi-language HMI & Factory Reports
 - 🔗 REST & WebSocket APIs
 
-**🛠️ Tech Stack:**
 `Python` • `OpenCV` • `YOLO` • `Docker` • `Flask` • `SQL`
 
 <br/>
@@ -194,60 +171,11 @@ Enterprise AI-powered quality assurance platform for food manufacturing and Indu
 
 </tr>
 
-<tr>
-
-<td colspan="2">
-
-### 🍕 Smooth Pizza Counter
-> **AI Production Line Monitoring**
-
-Real-time Computer Vision system for automated pizza detection and production-line monitoring.
-
-**⚡ Key Capabilities:**
-- 🍕 YOLOv8 Object Detection & Live Camera Streams
-- 📊 Production Dashboard & Automatic Counting
-- 🌐 Web Interface & Session Logging
-
-**🛠️ Tech Stack:**
-`Python` • `Flask` • `OpenCV` • `YOLOv8` • `HTML` • `CSS` • `JavaScript`
-
-<br/>
-
-<p align="center">
-<a href="https://github.com/Uszkido/Smooth-Pizza-Counter">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-
 </table>
 
 ---
 
-# 🌐 What I Build
-
-<div align="center">
-
-| Domain | Focus |
-| :--- | :--- |
-| 💡 **Artificial Intelligence** | Deep Learning, LLM Integrations, Neural Nets |
-| 🛡️ **Cybersecurity** | Network Security, Encryption, YARA Detection Signatures |
-| 📱 **Mobile Engineering** | Cross-platform Apps, Native Kotlin Integration, Bluetooth Thermal POS |
-| 🌾 **Agritech Platforms** | Digital Infrastructure, Supply Chain Passports, Market Hubs |
-| 🏭 **Industrial Automation** | Industry 4.0 QA, Computer Vision Inspection, HMI |
-| 📡 **Networking Solutions** | MikroTik RouterOS API, WireGuard VPN, Cloud Router Fleet Management |
-| 🤖 **Computer Vision** | YOLOv8 Object Detection, OpenCV Video Pipeline, Real-time Stream Analytics |
-| ☁️ **Cloud Applications** | Full-stack Web Apps, Microservices, PostgreSQL, Prisma, Drizzle |
-| 🔓 **Open Source** | Core Framework Contributions, Automation Workflows, Tooling |
-
-</div>
-
----
-
-# 🛠️ Tech Stack & Cyber Matrix
+## 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
@@ -260,27 +188,23 @@ Real-time Computer Vision system for automated pizza detection and production-li
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,dart,kotlin,electron&perline=9" />
 </p>
-<p><b>Also:</b> Framer Motion • Capacitor • Responsive UI/UX</p>
 
 ### ⚙️ Backend & API Ecosystem
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,ruby&perline=8" />
 </p>
-<p><b>Also:</b> REST APIs • JWT Auth • OAuth 2.0 • Socket.IO • Multer • Cloudinary • Paystack API • Groq AI API • ONNX Runtime</p>
 
 ### 🗄️ Databases & ORMs
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=8" />
 </p>
-<p><b>Also:</b> NoSQL • Drizzle ORM • Neon DB • Drift/SQLite</p>
 
 ### 🤖 AI, Machine Learning & Computer Vision
 <p align="center">
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow&perline=8" />
 </p>
-<p><b>Also:</b> YOLOv8 • ONNX • Groq AI • Object Detection • Image Processing • Predictive Analytics</p>
 
-### ☁️ DevOps, Cloud & Tools
+### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,vercel,vscode,postman,figma,npm,bash&perline=11" />
 </p>
@@ -289,37 +213,26 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 Achievements & Analytics
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Uszkido&theme=darkhub&no-frame=true&column=6&margin-w=15" />
 </p>
 
----
-
-# 📊 GitHub Analytics
+<br/>
 
 <p align="center">
-
 <img height="175" src="https://github-readme-stats-extended.vercel.app/api?username=Uszkido&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="175" src="https://github-readme-stats-extended.vercel.app/api/top-langs/?username=Uszkido&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Uszkido&theme=github-dark&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Matrix
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/activity-graph.svg" alt="Contribution Activity Graph"/>
-</p>
+## 📈 3D Contribution Calendar
 
 <p align="center">
   <picture>
@@ -328,14 +241,6 @@ Real-time Computer Vision system for automated pizza detection and production-li
     <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-rainbow.svg"/>
   </picture>
 </p>
-
-<p align="center">
-> *"Python does not solve problems — it gives you the clarity to see that the real problem was never the code."*
-<br/>
-— <b>Usama Ado Shehu</b>
-</p>
-
-<br/>
 
 <div align="center">
 
@@ -349,7 +254,7 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 ---
 
-# 🌐 Open Source Contributions
+## 🌐 Open Source Contributions
 
 | Project | Contribution | Type | Status |
 | :--- | :--- | :--- | :--- |
@@ -358,20 +263,9 @@ Real-time Computer Vision system for automated pizza detection and production-li
 | [`lingdojo/kana-dojo`](https://github.com/lingdojo/kana-dojo/pull/20990) | Added educational content about Nara's sika deer | `content` · JSON | ✅ Merged |
 | [`ditekshen/detection`](https://github.com/Uszkido/detection) | Yara/Snort/ClamAV detection signature rules for malware & IOCs | `security` · YARA | ✅ Active |
 
-### 🚀 Open Source Target Roadmap
-
-- [x] **Optuna:** `is_best` dataframe column enhancement
-- [ ] **Express.js:** Core middleware optimizations
-- [ ] **Next.js:** Server Action performance updates
-- [ ] **Appwrite / Supabase:** Auth & storage extensions
-- [ ] **OpenCV:** Computer Vision pipeline optimizations
-- [ ] **OpenMRS:** Healthcare open-source tools
-
-🎯 **2026 Goal:** 50+ merged pull requests in major open-source projects.
-
 ---
 
-# ⚡ Recent GitHub Activity
+## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 1. ℹ️ Assigned PR [#38](https://github.com/Uszkido/wirespot/pull/38) in [Uszkido/wirespot](https://github.com/Uszkido/wirespot)
@@ -381,7 +275,7 @@ Real-time Computer Vision system for automated pizza detection and production-li
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <div align="center">
 
