@@ -225,7 +225,7 @@ Digital infrastructure connecting verified farmers directly with consumers acros
 **Industrial Computer Vision & Quality Assurance**
 
 <p align="center">
-  <img src="assets/cornvision_real.png" width="100%" alt="CornVision Real AI Inspection Sample"/>
+  <img src="assets/cornvision_realistic.png" width="100%" alt="CornVision Real Industrial QA Inspection Dashboard"/>
 </p>
 
 Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspection.
@@ -261,6 +261,10 @@ Enterprise AI-powered QA platform for food manufacturing and Industry 4.0 inspec
 
 ### 🍕 Smooth Pizza Counter
 **AI Production Line Monitoring**
+
+<p align="center">
+  <img src="assets/pizza_real.png" width="100%" alt="Smooth Pizza Counter Real Computer Vision System"/>
+</p>
 
 Real-time Computer Vision system for automated pizza detection and production-line monitoring.
 
