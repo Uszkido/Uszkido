@@ -36,6 +36,13 @@
   <img src="https://img.shields.io/badge/Goal-50%2B_PRs_in_2026-6E40C9?style=flat-square&logo=target" />
 </p>
 
+<!-- Vexel Innovations Brand Badge -->
+<p align="center">
+  <a href="https://github.com/Vexel-Innovations">
+    <img src="https://raw.githubusercontent.com/Vexel-Innovations/.github/main/profile/vexel_logo_blended.png" width="100" alt="Vexel Innovations Logo Badge"/>
+  </a>
+</p>
+
 </div>
 
 ---
@@ -362,6 +369,12 @@ Real-time Computer Vision system for automated pizza detection and production-li
   <img src="https://readme-daily-quotes.vercel.app/api?author=true&theme=dark" alt="Daily Tech Quote"/>
 </p>
 
+## 📈 2D Activity Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/profile-night-view.svg" alt="2D Activity Graph" width="100%"/>
+</p>
+
 ---
 
 ## 📈 3D Contribution Calendar
@@ -383,6 +396,44 @@ Real-time Computer Vision system for automated pizza detection and production-li
 </picture>
 
 </div>
+
+---
+
+## 🎓 Education & Professional Certifications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Academic Background
+- **B.Sc. Computer Science / Software Engineering**
+- Focus: Distributed Systems, Computer Vision, AI Architectures, Data Structures & Algorithms
+
+</td>
+<td width="50%" valign="top">
+
+### 📜 Technical Certifications & Specializations
+- 🤖 **Machine Learning & AI Engineering** (PyTorch / TensorFlow / YOLOv8)
+- 📡 **MikroTik RouterOS Network Engineering** & Network Administration
+- 📱 **Cross-Platform Mobile Development** (Flutter & Native Android/Kotlin)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 2026 Engineering Goals & Learning Roadmap
+
+```
+  ┌───────────────────────────┐     ┌───────────────────────────┐     ┌───────────────────────────┐
+  │  🎯 OPTUNA CORE           │ ──> │  📡 WIRESPOT EXPANSION    │ ──> │  🤖 INDUSTRIAL CV         │
+  │                           │     │                           │     │                           │
+  │ Target 50+ Merged PRs     │     │ Ruijie/Reyee & OpenWrt    │     │ Deploy CornVision to      │
+  │ Hyperparameter Tuning     │     │ Connectors & Production   │     │ Production Factories      │
+  │ Dataframe Optimizations   │     │ Play Store Launch         │     │ Edge AI Inference         │
+  └───────────────────────────┘     └───────────────────────────┘     └───────────────────────────┘
+```
 
 ---
 
