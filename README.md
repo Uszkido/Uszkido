@@ -412,7 +412,7 @@ Python • Flask • OpenCV • YOLOv8 • HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Uszkido&theme=github-dark&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/Uszkido/Uszkido/output/activity-graph.svg" alt="Contribution Graph"/>
 
 </p>
 

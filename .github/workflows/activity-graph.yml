@@ -12,21 +12,25 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Generate activity graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+        uses: Ashutosh00710/github-readme-activity-graph@v2
         with:
-          username: Uszkido
-          options: theme=github-dark&hide_border=true
-          output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          username: Uszkido
+          bg_color: 0d1117
+          color: 58a6ff
+          line: 58a6ff
+          point: ffffff
+          area: true
+          hide_border: true
+          output: dist/activity-graph.svg
 
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          Add activity graph workflow
