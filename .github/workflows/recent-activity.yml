@@ -13,8 +13,9 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/user-activity-workflow@v1.1.0
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          gh_token: ${{ secrets.GITHUB_TOKEN }}
-          commit_msg: "docs: update recent activity"
-          max_activity: 5
+          GH_USERNAME: Uszkido
+          MAX_LINES: 5
