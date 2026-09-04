@@ -292,7 +292,7 @@ Real-time Computer Vision system for automated pizza detection and production-li
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Uszkido&theme=darkhub&no-frame=true&column=6&margin-w=15" />
+  <img src="https://github-trophies.vercel.app/?username=Uszkido&theme=darkhub&no-frame=true&column=6&margin-w=15" />
 </p>
 
 ---
