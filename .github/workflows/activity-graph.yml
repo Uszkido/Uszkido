@@ -15,17 +15,15 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Generate activity graph
-        uses: Ashutosh00710/github-readme-activity-graph@v2
+        uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           username: Uszkido
-          bg_color: 0d1117
-          color: 58a6ff
-          line: 58a6ff
-          point: ffffff
-          area: true
+          custom_title: Contribution Graph
+          theme: github-dark
           hide_border: true
-          output: dist/activity-graph.svg
+          output_path: dist/activity-graph.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
