@@ -400,7 +400,7 @@ Real-time Computer Vision system for automated pizza detection and production-li
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#38](https://github.com/Uszkido/wirespot/pull/38) in [Uszkido/wirespot](https://github.com/Uszkido/wirespot)
+1. 🚀 Published release [Vexel application preview — November 2026](https://github.com/Vexel-Innovations/vexel-downloads/releases/tag/preview-2026-11-04) in [Vexel-Innovations/vexel-downloads](https://github.com/Vexel-Innovations/vexel-downloads)
 2. 💪 Opened PR [#6814](https://github.com/optuna/optuna/pull/6814) in [optuna/optuna](https://github.com/optuna/optuna)
 3. ❌ Closed PR [#24](https://github.com/Uszkido/wirespot/pull/24) in [Uszkido/wirespot](https://github.com/Uszkido/wirespot)
 <!--END_SECTION:activity-->
