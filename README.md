@@ -400,9 +400,9 @@ Real-time Computer Vision system for automated pizza detection and production-li
 ## ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [VEXEL VPN 1.0.0 — November 2026 preview](https://github.com/Vexel-Innovations/vexel-downloads/releases/tag/vexel-vpn-1.0.0-20261105) in [Vexel-Innovations/vexel-downloads](https://github.com/Vexel-Innovations/vexel-downloads)
-2. 🚀 Published release [VexelLink 0.1.4 — November 2026 update](https://github.com/Vexel-Innovations/vexel-downloads/releases/tag/vexellink-0.1.4-20261105) in [Vexel-Innovations/vexel-downloads](https://github.com/Vexel-Innovations/vexel-downloads)
-3. 🚀 Published release [Vexel application preview — November 2026](https://github.com/Vexel-Innovations/vexel-downloads/releases/tag/preview-2026-11-04) in [Vexel-Innovations/vexel-downloads](https://github.com/Vexel-Innovations/vexel-downloads)
+1. 🎉 Merged PR [#1](https://github.com/Vexel-Innovations/vexel-lms/pull/1) in [Vexel-Innovations/vexel-lms](https://github.com/Vexel-Innovations/vexel-lms)
+2. 💪 Opened PR [#1](https://github.com/Vexel-Innovations/vexel-lms/pull/1) in [Vexel-Innovations/vexel-lms](https://github.com/Vexel-Innovations/vexel-lms)
+3. 🚀 Published release [VEXEL VPN 1.0.0 — November 2026 preview](https://github.com/Vexel-Innovations/vexel-downloads/releases/tag/vexel-vpn-1.0.0-20261105) in [Vexel-Innovations/vexel-downloads](https://github.com/Vexel-Innovations/vexel-downloads)
 <!--END_SECTION:activity-->
 
 ---
